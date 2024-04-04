@@ -1,6 +1,6 @@
 ### Streamlit App
 
-#### Student Tracker
+#### Student Tracker [Tracker Website](https://univer0tracker.streamlit.app/)
 
 The Student Tracker is a web application built using Streamlit, a Python library for creating interactive web apps for data analysis and visualization.
 
@@ -63,3 +63,6 @@ The University Tracker Bot is a Telegram bot built using the aiogram library in 
 - Offers a user-friendly interface with intuitive commands for navigation.
 - Delivers actionable insights and analytics for informed decision-making.
 - Enhances communication and collaboration among stakeholders by centralizing data access within the Telegram platform.
+
+#### Check the website
+[Tracker Website](https://univer0tracker.streamlit.app/)
